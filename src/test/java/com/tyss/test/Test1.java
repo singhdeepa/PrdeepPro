@@ -7,6 +7,10 @@ public class Test1 {
 public void test()
 {
 	System.out.println("Local1");
+
 	System.out.println("Local2");
+
+	System.out.println("global");
+
 }
 }
