@@ -11,6 +11,8 @@ public void test()
 	System.out.println("Local2");
 
 	System.out.println("global");
+	System.out.println("request");
+
 
 }
 }
